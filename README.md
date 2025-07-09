@@ -207,6 +207,16 @@ streamlit run app.py
 ```
 
 - Open [http://localhost:8501](http://localhost:8501) in your browser.
+- ![Screenshot (257)](https://github.com/user-attachments/assets/b5fc572c-4930-4374-b65a-e79bbe08a09e)
+You will see this interface as the app starts.
+
+- Now you are presented with a choice of either uploading your customer data, Or generating sample data or manually entering the data as per your choice in order to generate predictions
+- ![Screenshot (258)](https://github.com/user-attachments/assets/4bfc7c23-cf92-4e11-8f77-66e3ca9e5f24)
+
+- I have provided a sample customer data file ,in case you want to upload that and generate the predictions and if you want to generate the predictions through sample data, click on that and let's move on to the interface on the right side of our page.
+- ![Screenshot (259)](https://github.com/user-attachments/assets/8f5ad364-ceac-479f-bd8a-9f8caa614c45)
+
+
 
 ### Main Features
 
