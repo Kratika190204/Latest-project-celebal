@@ -207,15 +207,49 @@ streamlit run app.py
 ```
 
 - Open [http://localhost:8501](http://localhost:8501) in your browser.
-- ![Screenshot (257)](https://github.com/user-attachments/assets/b5fc572c-4930-4374-b65a-e79bbe08a09e)
-You will see this interface as the app starts.
+
+  
+ ![Screenshot (257)](https://github.com/user-attachments/assets/b5fc572c-4930-4374-b65a-e79bbe08a09e)
+-You will see this interface as the app starts.
 
 - Now you are presented with a choice of either uploading your customer data, Or generating sample data or manually entering the data as per your choice in order to generate predictions
 - ![Screenshot (258)](https://github.com/user-attachments/assets/4bfc7c23-cf92-4e11-8f77-66e3ca9e5f24)
 
 - I have provided a sample customer data file ,in case you want to upload that and generate the predictions and if you want to generate the predictions through sample data, click on that and let's move on to the interface on the right side of our page.
-- ![Screenshot (259)](https://github.com/user-attachments/assets/8f5ad364-ceac-479f-bd8a-9f8caa614c45)
+  ![Screenshot (259)](https://github.com/user-attachments/assets/8f5ad364-ceac-479f-bd8a-9f8caa614c45)
 
+- Click on generate predictions button to see the data visualisations.
+![Screenshot (260)](https://github.com/user-attachments/assets/35ab0efd-40b0-4512-ac97-7b8876664b47)
+
+- You can check out multiple visualisations by navigating through the various analysis
+![Screenshot (261)](https://github.com/user-attachments/assets/1c5597d5-ad33-4b06-9fda-163b62fa3911)
+![Screenshot (262)](https://github.com/user-attachments/assets/d763427f-db64-4ad7-a37e-b7bfef9c1f60)
+![Screenshot (263)](https://github.com/user-attachments/assets/a33f740a-9aed-47c7-8027-4fc8011f86fd)
+![Screenshot (264)](https://github.com/user-attachments/assets/8ebe5ab8-3f46-4194-8091-c314f716175f)
+![Screenshot (265)](https://github.com/user-attachments/assets/772c1a14-82ea-4c74-b081-ec6b58a8e56a)
+![Screenshot (266)](https://github.com/user-attachments/assets/93f7ad1d-40ca-4d51-90a6-821fcdf4cdc4)
+
+-Now that you have navigated through the predictions you can also download the predictions as Excel or csv files through the given options
+![Screenshot (269)](https://github.com/user-attachments/assets/ea7d903c-04d7-4242-8046-ee23364afa75)
+
+- We have four different features in this application as well, User can provide feedback or request a feature or view the documentation or contact the administrator
+![Screenshot (270)](https://github.com/user-attachments/assets/2a56ca01-0365-434e-a48f-9a511fb920d6)
+
+1.) View documentaion:
+![Screenshot (289)](https://github.com/user-attachments/assets/eb9a8809-52b9-4736-8962-58b6838cbd71)
+
+2.) Provide feedback:
+![Screenshot (273)](https://github.com/user-attachments/assets/c0d38812-0df8-437f-af68-a1f3e198a3ea)
+
+3.) Request a feature:
+![Screenshot (272)](https://github.com/user-attachments/assets/dac6eb65-95aa-4403-9b07-4e8be48efa81)
+
+4.) Contact details:
+![Screenshot (290)](https://github.com/user-attachments/assets/6c386ebe-4aca-4c9f-8d7f-690895ae5ec8)
+
+-Admin can administor requests and feedback through a password and then Feedback dashboard and view request dashboard will appear.
+![Screenshot (276)](https://github.com/user-attachments/assets/655db19a-aa73-4549-a683-93153123ef9c)
+![Screenshot (277)](https://github.com/user-attachments/assets/d04f7e73-9cd9-4fe3-8b34-35413169c0a7)
 
 
 ### Main Features
